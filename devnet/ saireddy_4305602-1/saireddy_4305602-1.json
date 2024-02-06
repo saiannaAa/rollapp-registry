@@ -1,4 +1,5 @@
-  "chainId": "saireddy_4305602-11",
+{
+  "chainId": "saireddy_4305602-11",
   "chainName": "Saireddy",
   "rpc": "http://104.251.215.42:26657",
   "rest": "http://104.251.215.42:1317",
